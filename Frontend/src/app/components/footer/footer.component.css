@@ -1,0 +1,31 @@
+footer{
+    padding-left: 25%;
+    margin-top: 2rem;
+    background: linear-gradient( to right,
+    rgba(255, 255, 255, 0),
+    rgba(255, 255, 255, 0.171)
+    ),url(https://www.wallpaperuse.com/wallp/83-838364_m.jpg) ;
+     color: azure;
+
+    }
+
+
+    @media screen and (max-width: 767px) {
+        img {
+            height: 20vh;
+            width: 20vw;
+        }
+
+    }
+
+
+    @media screen and (max-width: 575px) {
+
+        img {
+            height: 20vh;
+            width: 20vw;
+        }
+
+       
+
+    }
